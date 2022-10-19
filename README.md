@@ -1,8 +1,7 @@
 # NFT in Metaverse
 NFT creation in METAVERSE
 ## Environment
-- three.js: Three.js is a cross-browser JavaScript library and application programming interface (API) used to create and  
-  display animated 3D computer graphics in a web browser using WebGL.
+- three.js: Three.js is a cross-browser JavaScript library and application programming interface (API) used to create and display animated 3D computer graphics in a web browser using WebGL.
 - ERC721: A standard for representing ownership of non-fungible tokens, that is, where each token is unique
 - web3.js: Ethereum JavaScript API, collection of libraries that allow you to interact with a local or remote ethereum node     using HTTP, IPC or WebSocket. 
 - ether.js: Library for interacting with the Ethereum Blockchain and its ecosystem
